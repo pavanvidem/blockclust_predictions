@@ -1,0 +1,29 @@
+#### sample table ###
+
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<table class="fancytable">
+<thead>
+<tr> <th> GEO accession </th> <th> Organism </th> <th> Tissue/Cell line </th> <th> Seq. machine </th> <th> #reads </th> <th> #tags </th> <th> #block groups </th> <th> #filtered </th> <th> #known</th> </tr>
+</thead>
+...
+...
+...
+...
+<body>
+
+
+
+#### individual samples ###
+
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<table class="fancytable">
+<thead>
+<tr> <th>  </th> <th> Annotation </th> <th> Link to UCSC </th> </tr>
+</thead>
+<tbody>
